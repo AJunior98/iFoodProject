@@ -4,11 +4,11 @@ import br.com.github.ajunior.ifood.dtos.RestauranteDto;
 import br.com.github.ajunior.ifood.dtos.mappers.RestauranteMapper;
 import br.com.github.ajunior.ifood.entities.RestauranteEntity;
 import br.com.github.ajunior.ifood.repository.RestauranteRepository;
-import com.oracle.svm.core.annotate.Inject;
 import lombok.AllArgsConstructor;
 import lombok.NoArgsConstructor;
 
 import javax.enterprise.context.ApplicationScoped;
+import javax.inject.Inject;
 import java.util.ArrayList;
 import java.util.List;
 
