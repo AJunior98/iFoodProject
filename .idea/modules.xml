@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ifood/cadastro/cadastro.iml" filepath="$PROJECT_DIR$/ifood/cadastro/cadastro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ifood/ifood.iml" filepath="$PROJECT_DIR$/ifood/ifood.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ifood/marketplace/marketplace.iml" filepath="$PROJECT_DIR$/ifood/marketplace/marketplace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ifood/pedido/pedido.iml" filepath="$PROJECT_DIR$/ifood/pedido/pedido.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ws-ifood-work.iml" filepath="$PROJECT_DIR$/.idea/ws-ifood-work.iml" />
+    </modules>
+  </component>
+</project>

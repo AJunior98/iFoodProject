@@ -1,0 +1,17 @@
+version: '3.7'
+
+services:
+  postgres_cadastro:
+    image: 'postgres:13.1-alpine'
+    container_name: ifood
+    ports:
+      - 5432:5432
+    environment:
+      - POSTGRES_USER=ifood-admindb
+      - POSTGRES_PASSWORD=98653210
+    networks:
+      - ifood-network
+
+networks:
+  ifood-network:
+    name: ifood-network
